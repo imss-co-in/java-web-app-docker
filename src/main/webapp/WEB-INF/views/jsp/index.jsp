@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To IMSS Bengaluru,Karnataka.</h2>
+			<h2>Welcome To IMSSs Bengaluru,Karnataka.</h2>
 			<h3>good evng every one this small demo how to deploy the java application</h3>
 		</div>	
 	</div>
